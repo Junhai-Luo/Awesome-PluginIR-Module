@@ -12,7 +12,7 @@
   - 贡献者：By Yue Zhang。
 <div>
 
-<img src="assets/Losspng.png"> </img>
+<img src="Awe-Plugin-module-main/assets/Losspng.png"> </img>
 
 </div>
 
